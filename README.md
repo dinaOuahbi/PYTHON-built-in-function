@@ -9,7 +9,9 @@ Doc : https://docs.python.org/3/library/functions.html
 abs()
 round()
 max(list) / min / len / sum / all / any
-fonction de converion de types
+
+
+conversion type functions : 
 
 type()
 str(x) / int
